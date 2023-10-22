@@ -6,7 +6,7 @@ export default function app(){
   return(
     <div id="id">
       <div id="id1">
-        <p>My Own Portfolio</p>
+        <p>My Portfolio</p>
       </div>
       <div id="id2">
         <p><b id="id3">Profile</b></p>
@@ -15,10 +15,10 @@ export default function app(){
           I completed my Intermediate at Sri Chaitanya College and my SSC Board at Sri Chaitanya E.M School .
         </p>
         <p>
-          Outside of academics, I spend most of my time working on exciting projects and staying active on LinkedIn.</p> <p>I believe in the power of technology to make a positive impact on the world.
+          I believe in the power of technology to make a positive impact on the world.
         </p>
         <p>
-          I'm not just about tech – I enjoy hanging out with friends, playing sports, and indulging in my love for music and movies. 🎵🎬
+          I enjoy hanging out with friends, playing sports, and indulging in my love for music and movies.
           I'm passionate about constant learning, especially in the ever-changing data field.
         </p>
       </div>
